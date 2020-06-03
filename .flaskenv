@@ -1,0 +1,2 @@
+FLASK_APP=flask_message
+FLASK_ENV=development
